@@ -1,0 +1,33 @@
+html{
+    box-sizing: border-box;
+    }
+*, *:before, *:after{
+    box-sizing: inherit;
+    }
+
+body{
+    background: #2C2141;
+}
+
+.visitCard{
+    width: 624px;
+    height: 320px;
+    border-radius: 16px;
+    border: 1px solid red;
+}
+
+.visitCard__myPhoto{
+    height; 148px;
+    width: 148px;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+.visitCard__omnie{
+    font-family: Arial;
+}
+
+.visitCard__footer--link{
+    color: #E20613;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
